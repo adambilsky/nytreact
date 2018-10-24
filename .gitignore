@@ -4,3 +4,5 @@ npm-debug.log
 .env
 /yarn.lock
 /package.json
+/node_modules
+/build

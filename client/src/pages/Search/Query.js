@@ -64,10 +64,6 @@ class Query extends Component {
                 </Row>
             </Container>
 
-
-
-
         )
-
-
     }
+}
